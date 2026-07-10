@@ -1,6 +1,38 @@
 {
-  "generated_utc": "2026-07-10T23:18:48Z",
-  "licenses": [],
+  "generated_utc": "2026-07-10T23:18:57Z",
+  "licenses": [
+    {
+      "account_grants": [
+        "9838610c706f24d18099c761e6ba77125f72ce1721d8c1d6e092b0db4fb61637"
+      ],
+      "account_hashes": [
+        "479bb4d7ece2de25ec2bb6fd7e95d11054a02b5995d6541ef19829061e05a09a"
+      ],
+      "accounts_digest": "2c718efd6bf225fbf31e0ca9665d346f22c04b7cca587e09a751873db1fdb812",
+      "activation_hash": "e30b38c17cd9521db1a2794c2547319e50187390b0635e5d6b4342327424b89f",
+      "check_days": 0,
+      "customer_key_hash": "79c6963ff5af30b1b74a46390d48462a428cee281348fca664044d42ce57e7aa",
+      "expiry": "2027-07-20",
+      "features": {
+        "dd_panel": true,
+        "pc_panel": true,
+        "position_list": true
+      },
+      "grace_days": 0,
+      "hardware_hash": "3D5BC74726A3351213509180A49A298013B25597DBE23F62",
+      "license_id": "LIC-10-79C6-963F",
+      "platform": "MT5",
+      "product_name": "Position Control MT5",
+      "program_id": 10,
+      "record_signature": "628b82f6c2070a1c5225788576de61fd63105a513801ffef7f5405c41527b62b",
+      "status": "active",
+      "version_policy": {
+        "force_update": false,
+        "message": "",
+        "min_version": ""
+      }
+    }
+  ],
   "manager": "AminSoftwares_Online_License_Manager_v2_2_ASYNC_SAFE",
   "policy": {
     "configurable_manager_endpoint": true,
@@ -27,22 +59,6 @@
     {
       "default_check_days": 7,
       "default_grace_days": 14,
-      "name": "Amin Softwares Expert MT5",
-      "notes": "Default Program ID transferred from earlier activation workflow.",
-      "platform": "MT5",
-      "program_id": 80
-    },
-    {
-      "default_check_days": 7,
-      "default_grace_days": 14,
-      "name": "Amin Softwares Expert MT4",
-      "notes": "Default Program ID transferred from earlier activation workflow.",
-      "platform": "MT4",
-      "program_id": 82
-    },
-    {
-      "default_check_days": 7,
-      "default_grace_days": 14,
       "name": "Trading View for MetaTrader v3",
       "notes": "Indicator Program ID.",
       "platform": "MT5",
@@ -63,8 +79,24 @@
       "notes": "Indicator Program ID.",
       "platform": "MT5",
       "program_id": 36
+    },
+    {
+      "default_check_days": 7,
+      "default_grace_days": 14,
+      "name": "Amin Softwares Expert MT5",
+      "notes": "Default Program ID transferred from earlier activation workflow.",
+      "platform": "MT5",
+      "program_id": 80
+    },
+    {
+      "default_check_days": 7,
+      "default_grace_days": 14,
+      "name": "Amin Softwares Expert MT4",
+      "notes": "Default Program ID transferred from earlier activation workflow.",
+      "platform": "MT4",
+      "program_id": 82
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V21",
-  "signature": "7c865a0cfe644f74a3ca47d5349c3d5b4ea0761e7d8a53d903e0e20f39f754bf"
+  "signature": "ed1841bcb8e414aca55d9d48967e79a8e6c7b9085449572eb688d458cc1a5679"
 }
