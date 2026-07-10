@@ -1,66 +1,22 @@
 {
-  "generated_utc": "2026-07-10T11:41:39Z",
+  "generated_utc": "2026-07-10T11:51:34Z",
   "licenses": [
     {
       "account_hashes": [
         "479bb4d7ece2de25ec2bb6fd7e95d11054a02b5995d6541ef19829061e05a09a"
       ],
       "activation_alias_index": 0,
-      "activation_hash": "44f25d80d83b402c6f7e4c407f1dd2e892ac02b4162a127ddb85a7939b043f3a",
+      "activation_hash": "a398ceee8121c44cb3a7229e3984fcf0b1d2e41776dc42f333f5aacbabb0d4a1",
       "activation_hashes": [
-        "44f25d80d83b402c6f7e4c407f1dd2e892ac02b4162a127ddb85a7939b043f3a"
+        "a398ceee8121c44cb3a7229e3984fcf0b1d2e41776dc42f333f5aacbabb0d4a1"
       ],
-      "check_days": 1,
-      "customer_id": "09143006005",
+      "check_days": 7,
+      "customer_id": "0914300060005",
       "device_identity_mode": "hardware",
       "emergency": {
         "codes": []
       },
-      "expiry": "2027-07-10",
-      "failed_online_count": 0,
-      "features": {
-        "dd_panel": true,
-        "pc_panel": true,
-        "position_list": true
-      },
-      "grace_days": 5,
-      "hardware_hashes": [
-        "3D5BC74726A3351213509180A49A298013B25597DBE23F62FF8A16540208EA6"
-      ],
-      "install_hashes": [
-        "ee7bb5be1f2f66c441d7b987e4f49b60afba1b7a272167d2d8bf773386aa0849"
-      ],
-      "last_online_check": "",
-      "last_result": "created",
-      "license_id": "LIC-10-CFCF-D9CC",
-      "max_devices": 1,
-      "online_check_count": 0,
-      "platform": "MT5",
-      "product_name": "Position Control MT5",
-      "program_id": 10,
-      "status": "active",
-      "version_policy": {
-        "force_update": false,
-        "message": "",
-        "min_version": ""
-      }
-    },
-    {
-      "account_hashes": [
-        "479bb4d7ece2de25ec2bb6fd7e95d11054a02b5995d6541ef19829061e05a09a"
-      ],
-      "activation_alias_index": 0,
-      "activation_hash": "b7002164a1bc4b06568523ec08a34ab7e2a65d9137739f387928c59e534656ad",
-      "activation_hashes": [
-        "b7002164a1bc4b06568523ec08a34ab7e2a65d9137739f387928c59e534656ad"
-      ],
-      "check_days": 1,
-      "customer_id": "09143006005",
-      "device_identity_mode": "hardware",
-      "emergency": {
-        "codes": []
-      },
-      "expiry": "2027-07-10",
+      "expiry": "2027-07-15",
       "failed_online_count": 0,
       "features": {
         "dd_panel": true,
@@ -72,11 +28,11 @@
         "3D5BC74726A3351213509180A49A298013B25597DBE23F62FF8A16540208EA6"
       ],
       "install_hashes": [
-        "77b150b114068bacd87e2691a97b0bb7eeab63f385493445a14f0f23f73a9d60"
+        "0e47d4c8dcb6b6e99d21777973f80d86c97d73e324b5bfb954db9b1ad63faef9"
       ],
       "last_online_check": "",
       "last_result": "created",
-      "license_id": "LIC-10-F445-6549",
+      "license_id": "LIC-10-43BF-0690",
       "max_devices": 1,
       "online_check_count": 0,
       "platform": "MT5",
@@ -90,7 +46,7 @@
       }
     }
   ],
-  "manager": "AminSoftwares_Online_License_Manager_v1_5_5_SMBIOS_HardwareLock",
+  "manager": "AminSoftwares_Online_License_Manager_v1_5_7_SMBIOS_HardwareLock",
   "policy": {
     "ea_or_dll_should_read_this_file": true,
     "hardware_lock_supported": true,
@@ -156,5 +112,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V1",
-  "signature": "7cc19bf073533407ab72620ac4934f5543d2315bcc05d56ecd3e96b106e3754f"
+  "signature": "8d3800600409efa20be26ee3f5b61c46a70f07b17ee0536b0f143a02ac9e4cd3"
 }
