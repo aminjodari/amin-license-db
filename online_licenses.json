@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-10T12:05:43Z",
+  "generated_utc": "2026-07-10T12:17:48Z",
   "licenses": [
     {
       "account_hashes": [
@@ -10,8 +10,8 @@
       "activation_hashes": [
         "3bc8430625440cbedef3cf2f702906cd25627869d1cfbffc3950ea74935312db"
       ],
-      "check_days": 1,
-      "customer_id": "09143006005",
+      "check_days": 7,
+      "customer_id": "15521525",
       "device_identity_mode": "hardware",
       "emergency": {
         "codes": []
@@ -23,7 +23,7 @@
         "pc_panel": true,
         "position_list": true
       },
-      "grace_days": 2,
+      "grace_days": 14,
       "hardware_hashes": [
         "3D5BC74726A3351213509180A49A298013B25597DBE23F62FF8A16540208EA6"
       ],
@@ -112,5 +112,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V1",
-  "signature": "f3434ee114ba16559a38b313e6b328a7c1a7935d3bd82cf071cfb8ffc57dfe42"
+  "signature": "b07188adb415df4e13f45e6aed67ce25344af5be764e9bd0c0565bb4cd46f862"
 }
