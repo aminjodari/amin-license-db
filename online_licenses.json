@@ -1,38 +1,38 @@
 {
-  "generated_utc": "2026-07-10T11:52:05Z",
+  "generated_utc": "2026-07-10T12:05:43Z",
   "licenses": [
     {
       "account_hashes": [
         "479bb4d7ece2de25ec2bb6fd7e95d11054a02b5995d6541ef19829061e05a09a"
       ],
       "activation_alias_index": 0,
-      "activation_hash": "a398ceee8121c44cb3a7229e3984fcf0b1d2e41776dc42f333f5aacbabb0d4a1",
+      "activation_hash": "3bc8430625440cbedef3cf2f702906cd25627869d1cfbffc3950ea74935312db",
       "activation_hashes": [
-        "a398ceee8121c44cb3a7229e3984fcf0b1d2e41776dc42f333f5aacbabb0d4a1"
+        "3bc8430625440cbedef3cf2f702906cd25627869d1cfbffc3950ea74935312db"
       ],
-      "check_days": 7,
-      "customer_id": "0914300060005",
+      "check_days": 1,
+      "customer_id": "09143006005",
       "device_identity_mode": "hardware",
       "emergency": {
         "codes": []
       },
-      "expiry": "2027-07-15",
+      "expiry": "2027-07-10",
       "failed_online_count": 0,
       "features": {
         "dd_panel": true,
         "pc_panel": true,
         "position_list": true
       },
-      "grace_days": 14,
+      "grace_days": 2,
       "hardware_hashes": [
         "3D5BC74726A3351213509180A49A298013B25597DBE23F62FF8A16540208EA6"
       ],
       "install_hashes": [
-        "0e47d4c8dcb6b6e99d21777973f80d86c97d73e324b5bfb954db9b1ad63faef9"
+        "d78b358d8e39b555793b458fe10651e4c3a22260a29002030c09cc3abf1bf068"
       ],
       "last_online_check": "",
       "last_result": "created",
-      "license_id": "LIC-10-43BF-0690",
+      "license_id": "LIC-10-8A69-29BA",
       "max_devices": 1,
       "online_check_count": 0,
       "platform": "MT5",
@@ -112,5 +112,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V1",
-  "signature": "2e5ea73e330ee8e03a3898ffdc7a91c63509bb64ef95dc4a007738f3bebeefa5"
+  "signature": "f3434ee114ba16559a38b313e6b328a7c1a7935d3bd82cf071cfb8ffc57dfe42"
 }
