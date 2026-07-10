@@ -1,6 +1,50 @@
 {
-  "generated_utc": "2026-07-10T11:39:30Z",
+  "generated_utc": "2026-07-10T11:41:32Z",
   "licenses": [
+    {
+      "account_hashes": [
+        "479bb4d7ece2de25ec2bb6fd7e95d11054a02b5995d6541ef19829061e05a09a"
+      ],
+      "activation_alias_index": 0,
+      "activation_hash": "44f25d80d83b402c6f7e4c407f1dd2e892ac02b4162a127ddb85a7939b043f3a",
+      "activation_hashes": [
+        "44f25d80d83b402c6f7e4c407f1dd2e892ac02b4162a127ddb85a7939b043f3a"
+      ],
+      "check_days": 1,
+      "customer_id": "09143006005",
+      "device_identity_mode": "hardware",
+      "emergency": {
+        "codes": []
+      },
+      "expiry": "2027-07-10",
+      "failed_online_count": 0,
+      "features": {
+        "dd_panel": true,
+        "pc_panel": true,
+        "position_list": true
+      },
+      "grace_days": 5,
+      "hardware_hashes": [
+        "3D5BC74726A3351213509180A49A298013B25597DBE23F62FF8A16540208EA6"
+      ],
+      "install_hashes": [
+        "ee7bb5be1f2f66c441d7b987e4f49b60afba1b7a272167d2d8bf773386aa0849"
+      ],
+      "last_online_check": "",
+      "last_result": "created",
+      "license_id": "LIC-10-CFCF-D9CC",
+      "max_devices": 1,
+      "online_check_count": 0,
+      "platform": "MT5",
+      "product_name": "Position Control MT5",
+      "program_id": 10,
+      "status": "active",
+      "version_policy": {
+        "force_update": false,
+        "message": "",
+        "min_version": ""
+      }
+    },
     {
       "account_hashes": [
         "479bb4d7ece2de25ec2bb6fd7e95d11054a02b5995d6541ef19829061e05a09a"
@@ -112,5 +156,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V1",
-  "signature": "e49c0fec46d139bfee8a4d93b95bf372f6d8b0b3d0033bc26b59a71a88c3d3d0"
+  "signature": "6a332f54343ed0942aea96a93761130cc60b4f2795ff7082048250a54e0251b8"
 }
