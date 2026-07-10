@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-10T13:19:24Z",
+  "generated_utc": "2026-07-10T13:21:04Z",
   "licenses": [
     {
       "account_hashes": [
@@ -11,7 +11,7 @@
         "5c8699d2f56898607110220b04c5d07a4674897a78060c2289639c88922be5a5"
       ],
       "check_days": 7,
-      "customer_id": "5214515",
+      "customer_id": "511515",
       "device_identity_mode": "hardware",
       "emergency": {
         "codes": []
@@ -69,24 +69,6 @@
       "default_check_days": 7,
       "default_grace_days": 14,
       "default_max_devices": 1,
-      "name": "Amin Softwares Expert MT5",
-      "notes": "Default Program ID transferred from earlier activation workflow.",
-      "platform": "MT5",
-      "program_id": 80
-    },
-    {
-      "default_check_days": 7,
-      "default_grace_days": 14,
-      "default_max_devices": 1,
-      "name": "Amin Softwares Expert MT4",
-      "notes": "Default Program ID transferred from earlier activation workflow.",
-      "platform": "MT4",
-      "program_id": 82
-    },
-    {
-      "default_check_days": 7,
-      "default_grace_days": 14,
-      "default_max_devices": 1,
       "name": "Trading View for MetaTrader v3",
       "notes": "Indicator Program ID.",
       "platform": "MT5",
@@ -109,8 +91,26 @@
       "notes": "Indicator Program ID.",
       "platform": "MT5",
       "program_id": 36
+    },
+    {
+      "default_check_days": 7,
+      "default_grace_days": 14,
+      "default_max_devices": 1,
+      "name": "Amin Softwares Expert MT5",
+      "notes": "Default Program ID transferred from earlier activation workflow.",
+      "platform": "MT5",
+      "program_id": 80
+    },
+    {
+      "default_check_days": 7,
+      "default_grace_days": 14,
+      "default_max_devices": 1,
+      "name": "Amin Softwares Expert MT4",
+      "notes": "Default Program ID transferred from earlier activation workflow.",
+      "platform": "MT4",
+      "program_id": 82
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V1",
-  "signature": "71cfb5e5794d3216cb6e353204aec74914eb3cac3a93e2f266cea814371b03fe"
+  "signature": "7ab7b8b39e5622de320e387f8ab642df34dca66036373bba915a79efa77cefae"
 }
