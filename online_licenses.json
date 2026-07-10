@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-10T11:51:56Z",
+  "generated_utc": "2026-07-10T11:52:05Z",
   "licenses": [
     {
       "account_hashes": [
@@ -112,5 +112,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V1",
-  "signature": "37a51c819cd28978705af5699c377ba5432cff8c4cb680e99f8e52aa6b7faa0c"
+  "signature": "2e5ea73e330ee8e03a3898ffdc7a91c63509bb64ef95dc4a007738f3bebeefa5"
 }
