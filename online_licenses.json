@@ -1,0 +1,24 @@
+{
+  "generated_utc": "2026-07-10T08:29:55Z",
+  "licenses": [],
+  "manager": "AminSoftwares_Online_License_Manager_v1",
+  "policy": {
+    "ea_or_dll_should_read_this_file": true,
+    "hashes_only_no_raw_accounts_or_install_ids": true,
+    "offline_activation_required": true,
+    "online_gate_after_offline_ok": true
+  },
+  "products": [
+    {
+      "default_check_days": 7,
+      "default_grace_days": 14,
+      "default_max_devices": 1,
+      "name": "Position Control MT5",
+      "notes": "Default product from uploaded licensed EA.",
+      "platform": "MT5",
+      "program_id": 10
+    }
+  ],
+  "schema": "AMIN_ONLINE_LICENSE_DB_V1",
+  "signature": "0d8f63920660e4c28fdaa757d62ac8873e228b03dd3ba412ce2bb59aa93b58f5"
+}
