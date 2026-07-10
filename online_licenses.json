@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-10T10:18:26Z",
+  "generated_utc": "2026-07-10T10:18:32Z",
   "licenses": [
     {
       "account_hashes": [
@@ -25,7 +25,7 @@
       "last_online_check": "",
       "last_result": "created",
       "license_id": "LIC-10-8AC0-D49D",
-      "max_devices": 2,
+      "max_devices": 1,
       "online_check_count": 0,
       "platform": "MT5",
       "product_name": "Position Control MT5",
@@ -129,5 +129,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V1",
-  "signature": "1572fd9448cf7c5210278b1267509c9d61f62086107eb9efc534c7d5f68a8864"
+  "signature": "d5f517f6c0c75166f9f920208397a292c51b0f4f2bffec97d3c2ef60bc8c039b"
 }
