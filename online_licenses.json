@@ -1,6 +1,40 @@
 {
-  "generated_utc": "2026-07-11T14:54:57Z",
-  "licenses": [],
+  "generated_utc": "2026-07-11T14:58:43Z",
+  "licenses": [
+    {
+      "account_grants": [
+        "751d99dd2960b99aaba9a1dbbd910f54a23e6dd8962cf602cd0dc1b8443c69ff",
+        "33563974061e9e097a668174f49bf1f4e64cef985f56b82d34824c64fd075e68"
+      ],
+      "account_hashes": [
+        "6d1260bff208b0bb4304fe17f8b5be3ce65033b79ff10a133d668d025215933f",
+        "479bb4d7ece2de25ec2bb6fd7e95d11054a02b5995d6541ef19829061e05a09a"
+      ],
+      "accounts_digest": "f56af144f062eb3123f14b7228ad862f0d59449a4d2bc9f812dca076bedab194",
+      "activation_hash": "f648dfe962736a6c0489a371e1ecce8cf04958fa3fa5b3399afe21ea54651a09",
+      "check_days": 1,
+      "customer_key_hash": "79c6963ff5af30b1b74a46390d48462a428cee281348fca664044d42ce57e7aa",
+      "expiry": "2027-07-20",
+      "features": {
+        "dd_panel": true,
+        "pc_panel": true,
+        "position_list": true
+      },
+      "grace_days": 1,
+      "hardware_hash": "3D5BC74726A3351213509180A49A298013B25597DBE23F62",
+      "license_id": "LIC-10-79C6-963F",
+      "platform": "MT5",
+      "product_name": "Position Control MT5",
+      "program_id": 10,
+      "record_signature": "0924628498eaaa6fdfffd3eca69220a419cb9c4e4af69b4f67e6dcfa59c9533c",
+      "status": "active",
+      "version_policy": {
+        "force_update": false,
+        "message": "",
+        "min_version": ""
+      }
+    }
+  ],
   "manager": "AminSoftwares_Online_License_Manager_v2_6_GUIDED_BILINGUAL_SAFE",
   "policy": {
     "automatic_local_recovery": true,
@@ -13,7 +47,6 @@
     "legacy_aliases": false,
     "non_blocking_github_sync": true,
     "offline_activation_required": true,
-    "remote_empty_tombstone": true,
     "single_hardware_per_activation": true,
     "single_record_per_program_hardware": true,
     "transactional_github_publish": true
@@ -69,5 +102,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V21",
-  "signature": "fc6be8afcdd7a26802f06f35043ccadfb4e2ae759c9cd1a006d468b8d183ec48"
+  "signature": "4c6dfcb32fa25af13374cef36c491b86f113134dc7d371c104ad69cfa83079cb"
 }
