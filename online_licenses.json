@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-11T16:39:33Z",
+  "generated_utc": "2026-07-11T16:41:56Z",
   "licenses": [
     {
       "account_grants": [
@@ -24,8 +24,8 @@
       "platform": "MT5",
       "product_name": "Position Control MT5",
       "program_id": 10,
-      "record_signature": "8f5eca4c8416c2af59f7d22cc2def36d39af21014266330eb65b950ae0ad5049",
-      "status": "active",
+      "record_signature": "4b7397cd7c444059965152c798387f03b98b0f794826024a51a859a331cf0622",
+      "status": "suspended",
       "version_policy": {
         "force_update": false,
         "message": "",
@@ -133,5 +133,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V21",
-  "signature": "9560740cfb0218e110aa353d9646bfc2f7ff71541cb695f48946c9866ae3fbbf"
+  "signature": "0e59308d3041276e5574523fc0bb0452d14b96397e28745875983a730550cbc4"
 }
