@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-11T18:01:32Z",
+  "generated_utc": "2026-07-11T22:30:13Z",
   "licenses": [
     {
       "account_grants": [
@@ -34,18 +34,16 @@
     },
     {
       "account_grants": [
-        "de2225fa48d843a846b614776125216c2d30d94d5a41a66cbec160d8124f14f4",
-        "9b373ac306e06be3cdc6c6bd68c9891dd14bf98f84b01865a34e3c5cfc6dfda2"
+        "916d23aa81678972d2f59f928b862489a496d84177183cc97f05400824f5a6d4"
       ],
       "account_hashes": [
-        "5afe9fee22f63d3a9e0ba0212bc90e3497b5df0776a617ba65b2147110722577",
-        "479bb4d7ece2de25ec2bb6fd7e95d11054a02b5995d6541ef19829061e05a09a"
+        "5afe9fee22f63d3a9e0ba0212bc90e3497b5df0776a617ba65b2147110722577"
       ],
-      "accounts_digest": "d74b4fca114b6b20860b28982f313f39b39d93033b72e0fa6739e05c7cae9c89",
-      "activation_hash": "86d01520f014e51b4087c0adf9641ee574e518933c12d9421fd99477dd0beadb",
+      "accounts_digest": "f04fa46cbecf1743e4910aa35f2725972b99abe34756f23596ea70f9f5046c2d",
+      "activation_hash": "9a5a1b13290386b132a19959b9f5e467adf7c92c07fcb06bae59b6e98b2ef1f8",
       "check_days": 0,
-      "customer_key_hash": "87495ffba431efcd742b869ce20c0be8bf315edc8981d3f7cdc30bed1b60f43a",
-      "expiry": "2027-07-10",
+      "customer_key_hash": "79c6963ff5af30b1b74a46390d48462a428cee281348fca664044d42ce57e7aa",
+      "expiry": "2027-07-20",
       "features": {
         "dd_panel": true,
         "pc_panel": true,
@@ -53,11 +51,11 @@
       },
       "grace_days": 0,
       "hardware_hash": "3D5BC74726A3351213509180A49A298013B25597DBE23F62",
-      "license_id": "LIC-10-8749-5FFB",
+      "license_id": "LIC-10-79C6-963F",
       "platform": "MT5",
       "product_name": "Position Control MT5",
       "program_id": 10,
-      "record_signature": "ea6b486487d1c0a575a6d314ff53eef7c1e6910f761e2a5d3cf3a6346c879688",
+      "record_signature": "04df7449742580380ce7bb272fa45778a605fe31377699ecbc3ab6b937ee9642",
       "status": "active",
       "version_policy": {
         "force_update": false,
@@ -66,7 +64,7 @@
       }
     }
   ],
-  "manager": "AminSoftwares_Online_License_Manager_v2_6_6_FAST_NONBLOCKING_SYNC_FINAL",
+  "manager": "AminSoftwares_Online_License_Manager_v2_6_7_FRESH_API_ERROR_CODES_FINAL",
   "policy": {
     "automatic_local_recovery": true,
     "configurable_manager_endpoint": true,
@@ -133,5 +131,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V21",
-  "signature": "cb7def3cdc2839d8633aa246b0ffb0140de8f61bc8a0b347f064b259a8ec8c52"
+  "signature": "a2918ced33812f7cf49ebbc8cdfda240a31d5cc3c9d1e99b294b207ab26a9f3e"
 }
