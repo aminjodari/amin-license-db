@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-12T14:29:58Z",
+  "generated_utc": "2026-07-12T21:23:59Z",
   "licenses": [
     {
       "account_grants": [
@@ -24,8 +24,8 @@
       "platform": "MT5",
       "product_name": "Position Control MT5",
       "program_id": 10,
-      "record_signature": "f144690c9ad8cae2f13ad0273b21df360685811c885075deafcc64e326347714",
-      "status": "active",
+      "record_signature": "23ee635e8ad4df251b116edbc430e5013f364241c0d55c31bf5cec3c5327bf7a",
+      "status": "suspended",
       "version_policy": {
         "force_update": false,
         "message": "",
@@ -33,7 +33,7 @@
       }
     }
   ],
-  "manager": "AminSoftwares_Online_License_Manager_v2_6_7_FRESH_API_ERROR_CODES_FINAL",
+  "manager": "AminSoftwares_Online_License_Manager_V2_6_31_STRICT_FRESH_ATTACH",
   "policy": {
     "automatic_local_recovery": true,
     "configurable_manager_endpoint": true,
@@ -41,6 +41,7 @@
     "exact_activation_required": true,
     "fixed_github_endpoint": false,
     "fresh_only": true,
+    "global_maintenance_control_v1": true,
     "identity_isolated_cache": true,
     "legacy_aliases": false,
     "non_blocking_github_sync": true,
@@ -100,5 +101,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V21",
-  "signature": "d1b04b124632f6eacbfae16382aac1b68d6fc735e1ea8f8f1b4cd4d0e32db1cc"
+  "signature": "7541f5ea1dc25533ed34300e1710d498e1148ec34e35da3323421bfbd3136349"
 }
