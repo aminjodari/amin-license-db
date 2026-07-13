@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-12T22:17:03Z",
+  "generated_utc": "2026-07-13T08:50:15Z",
   "licenses": [
     {
       "account_grants": [
@@ -33,7 +33,7 @@
       }
     }
   ],
-  "manager": "AminSoftwares_Online_License_Manager_V2_6_32_STRICT_FRESH_ATTACH",
+  "manager": "AminSoftwares_Online_License_Manager_V2_6_34_STRICT_FRESH_ATTACH",
   "policy": {
     "automatic_local_recovery": true,
     "configurable_manager_endpoint": true,
@@ -101,5 +101,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V21",
-  "signature": "6d36ec0f1ca2772ea818e9aecb373cfc25287564601d93bb1e0d27002398b608"
+  "signature": "0f3430b6d09b02fd48de8f3bb3466d0f3c0e1503c357225adf85b802e2a7fd6f"
 }
