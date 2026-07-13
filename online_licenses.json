@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-13T16:50:33Z",
+  "generated_utc": "2026-07-13T20:59:48Z",
   "licenses": [
     {
       "account_grants": [
@@ -34,8 +34,8 @@
     },
     {
       "account_grants": [
-        "0782e09728aa6e248791ad6cecb83d79c5edf2b36dcbe0384d55ccdba613f38b",
-        "4e1fa3333949457c06cb50e82303a6e103439832bbec7c3298db7a45b9c1e115"
+        "174c473719796773f0993c126d410082b304cac904b8023bca0ee08b31c11018",
+        "94651132ed0045a5b792d7c3bed08991369c33b1432edcb13dbf6333b7a89d83"
       ],
       "account_hashes": [
         "196c870b8dadafebcae35e1158655eee001e093148a438a2acc0501ea7e0528f",
@@ -45,7 +45,7 @@
       "activation_hash": "9fe88808e744e70e6e1314f281d09a9eef6ee70bca39c6170ddd5e000a5cd689",
       "check_days": 0,
       "customer_key_hash": "aa4f53043a94524207f314c177c84d36b86f8ff51579dcc8b95dd03269798199",
-      "expiry": "2026-07-28",
+      "expiry": "2026-07-13",
       "features": {
         "dd_panel": true,
         "pc_panel": true,
@@ -57,7 +57,7 @@
       "platform": "MT5",
       "product_name": "Position Control MT5",
       "program_id": 10,
-      "record_signature": "98f790a6412187c02dba607b321caca25f17f51b7ab4eb742424f7ce4048707e",
+      "record_signature": "1d5d59118cf03043d8d82e8427cb1db5a6ab31f4615a2c0a03a3851519b7d7d7",
       "status": "active",
       "version_policy": {
         "force_update": false,
@@ -135,5 +135,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V21",
-  "signature": "934955d4edf3b9302a3790e6d93947d19f9e4bb7e69de7bef7d38ee8a461862d"
+  "signature": "376620ddec37880246be3eef517fc97b373bb6f2c02b0c2edbf5a959c42840e1"
 }
