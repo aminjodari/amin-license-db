@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-13T15:07:53Z",
+  "generated_utc": "2026-07-13T15:18:54Z",
   "licenses": [
     {
       "account_grants": [
@@ -34,16 +34,18 @@
     },
     {
       "account_grants": [
-        "b809e3167a3b1cee47e261e18a135f67c45ee2686f093b530dd7b4b1885ccfdd"
+        "a55617286018f8e8f023532edc33ae5db58d71b2b687e531968b569bea037cb8",
+        "f378608582d87d85141bf3ef4cc52ac3651a94a7d9e61fa2a81a1c7e79e1791f"
       ],
       "account_hashes": [
+        "196c870b8dadafebcae35e1158655eee001e093148a438a2acc0501ea7e0528f",
         "479bb4d7ece2de25ec2bb6fd7e95d11054a02b5995d6541ef19829061e05a09a"
       ],
-      "accounts_digest": "2c718efd6bf225fbf31e0ca9665d346f22c04b7cca587e09a751873db1fdb812",
-      "activation_hash": "5972e82cff94b5b93aad2b665cbaf64d03ff174f364a9eb177a8955b3b288896",
+      "accounts_digest": "a1be0962b85f4f2546dfd72ddc86f4292ac7c91853954dc28f30650214a24a25",
+      "activation_hash": "9fe88808e744e70e6e1314f281d09a9eef6ee70bca39c6170ddd5e000a5cd689",
       "check_days": 0,
-      "customer_key_hash": "a080eac4216304b804b443ae6b234714fb6c7f398750d148e591ccc9140c4bba",
-      "expiry": "2027-07-13",
+      "customer_key_hash": "aa4f53043a94524207f314c177c84d36b86f8ff51579dcc8b95dd03269798199",
+      "expiry": "2027-01-01",
       "features": {
         "dd_panel": true,
         "pc_panel": true,
@@ -51,12 +53,12 @@
       },
       "grace_days": 0,
       "hardware_hash": "F5B63AADD637ED95D5AAE43D6315C13446B3BCE0905DE5B8",
-      "license_id": "LIC-10-A080-EAC4",
+      "license_id": "LIC-10-AA4F-5304",
       "platform": "MT5",
       "product_name": "Position Control MT5",
       "program_id": 10,
-      "record_signature": "777dc71e3549d971e95441f963d55c5d03e9db51a236e8146cb80510415497d2",
-      "status": "blocked",
+      "record_signature": "97d6c6c18558d401e2046f7b2ee962d1ddcdb5cc12cab75cd0b8d4a2354e4825",
+      "status": "active",
       "version_policy": {
         "force_update": false,
         "message": "",
@@ -133,5 +135,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V21",
-  "signature": "7a387a2e4e003dc1bfc91070ae7919ea3ced6bd55ac1ee81cc3f61ab55fcda37"
+  "signature": "7c268a5504cbcd6ee2a2bc22d366716f73aaea1f1741920fffadfdb509afab6c"
 }
