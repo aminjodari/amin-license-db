@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-07-13T14:02:36Z",
+  "generated_utc": "2026-07-13T14:03:37Z",
   "license_db_commit": "5e659d8871ca986f801d78db24ea8a9aaa996a4f",
   "license_db_generated_utc": "2026-07-13T14:02:29Z",
   "license_db_signature": "4289bc3e59b0d44c11473a03a1d50bd3eee28b8ced636588d43ef9e163d076d5",
-  "maintenance_enabled": 0,
+  "maintenance_enabled": 1,
   "manager": "AminSoftwares_Online_License_Manager_V2_6_34_R7_FUTURE_EXPIRY_GRACE",
   "schema": "AMIN_ONLINE_CONTROL_V2",
-  "signature": "110a6d73232fb23dae6b7c261b5a68c205a79eec99fd164aeeda81cccaed89ec"
+  "signature": "c5821f37a2d38b899ca65442be684df8b686389a8ddb8cf9d69e072351e86e21"
 }
