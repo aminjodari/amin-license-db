@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-13T21:15:34Z",
+  "generated_utc": "2026-07-13T21:33:08Z",
   "licenses": [
     {
       "account_grants": [
@@ -24,8 +24,8 @@
       "platform": "MT5",
       "product_name": "Position Control MT5",
       "program_id": 10,
-      "record_signature": "9ef74a997f45eb6e7a6254e8f54bec8bb533b7a6c7dc45109616d3addf40b5a2",
-      "status": "active",
+      "record_signature": "46d8fc109d69125d2393e9536922ae8f4f4c45fed09d5956455991b230c34d6f",
+      "status": "suspended",
       "version_policy": {
         "force_update": false,
         "message": "",
@@ -86,54 +86,54 @@
   },
   "products": [
     {
-      "default_check_days": 7,
-      "default_grace_days": 14,
+      "default_check_days": 1,
+      "default_grace_days": 15,
       "name": "Position Control MT5",
-      "notes": "Default product from uploaded licensed EA.",
+      "notes": "",
       "platform": "MT5",
       "program_id": 10
     },
     {
-      "default_check_days": 7,
-      "default_grace_days": 14,
+      "default_check_days": 1,
+      "default_grace_days": 15,
       "name": "Trading View for MetaTrader v3",
-      "notes": "Indicator Program ID.",
+      "notes": "",
       "platform": "MT5",
       "program_id": 32
     },
     {
-      "default_check_days": 7,
-      "default_grace_days": 14,
+      "default_check_days": 1,
+      "default_grace_days": 15,
       "name": "Position Detail",
-      "notes": "Indicator Program ID.",
+      "notes": "",
       "platform": "MT5",
       "program_id": 34
     },
     {
-      "default_check_days": 7,
-      "default_grace_days": 14,
+      "default_check_days": 1,
+      "default_grace_days": 15,
       "name": "M Candle",
-      "notes": "Indicator Program ID.",
+      "notes": "",
       "platform": "MT5",
       "program_id": 36
     },
     {
-      "default_check_days": 7,
-      "default_grace_days": 14,
+      "default_check_days": 1,
+      "default_grace_days": 15,
       "name": "Amin Softwares Expert MT5",
-      "notes": "Default Program ID transferred from earlier activation workflow.",
+      "notes": "",
       "platform": "MT5",
       "program_id": 80
     },
     {
       "default_check_days": 7,
-      "default_grace_days": 14,
+      "default_grace_days": 15,
       "name": "Amin Softwares Expert MT4",
-      "notes": "Default Program ID transferred from earlier activation workflow.",
+      "notes": "",
       "platform": "MT4",
       "program_id": 82
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V21",
-  "signature": "13c8dc9b6775e38474d0792c389e3e80e41a8008c6549d43234bd9811529346d"
+  "signature": "dfc03c9036869cb65530421c182a1e8cd8437e4a063f8ed20df4d43f95c445c7"
 }
