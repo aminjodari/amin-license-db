@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-07-13T08:52:11Z",
+  "generated_utc": "2026-07-13T11:17:21Z",
   "licenses": [
     {
       "account_grants": [
-        "68e40ab60aa927900ff83db48bc4e2405ea7a03a8b3dc2442c3878079c97880e"
+        "286814301f17cec4f1ead0d242183beaa423d41c3df86b5ed97b2d157f2f6607"
       ],
       "account_hashes": [
         "5afe9fee22f63d3a9e0ba0212bc90e3497b5df0776a617ba65b2147110722577"
@@ -12,7 +12,7 @@
       "activation_hash": "bd966e68268d83b65909108adb63d2a50b9086aad30be4fc796d34adfd596018",
       "check_days": 0,
       "customer_key_hash": "3fb36d9e2a4f79341afe8001fd6cc671f676cc075f83c4fc1f1e30e1aaa1655d",
-      "expiry": "2027-07-09",
+      "expiry": "2027-07-08",
       "features": {
         "dd_panel": true,
         "pc_panel": true,
@@ -24,7 +24,7 @@
       "platform": "MT5",
       "product_name": "Position Control MT5",
       "program_id": 10,
-      "record_signature": "bf4a3ea49cb6dbce4bf01d973bb354336e17ee34260677723b3c17ea67bfec2e",
+      "record_signature": "e956fc77e67ef352023219469904e0bf9a98e3b844d2e156e1bb8259e28a7e29",
       "status": "active",
       "version_policy": {
         "force_update": false,
@@ -42,6 +42,7 @@
     "fixed_github_endpoint": false,
     "fresh_only": true,
     "global_maintenance_control_v1": true,
+    "global_maintenance_control_v2_pinned_database": true,
     "identity_isolated_cache": true,
     "legacy_aliases": false,
     "non_blocking_github_sync": true,
@@ -101,5 +102,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V21",
-  "signature": "54d0974677aab29c1f1bbcd7bffebae2d1c103f0fed3180b2f48f6b99e601af9"
+  "signature": "2664a88d53f76ade785385dbbedf4c97e157c5db2ef203d48db028931c616a1d"
 }
