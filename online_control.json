@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-07-13T22:11:45Z",
-  "license_db_commit": "5cf3803231811247d9258182342fa6cab260f3b3",
-  "license_db_generated_utc": "2026-07-13T22:11:40Z",
-  "license_db_signature": "38d9ff579cde2bcf3f690a9a385923578908538a7093fccdb8bb4c8a388e09f0",
+  "generated_utc": "2026-07-17T08:18:34Z",
+  "license_db_commit": "c1890ec02c386e2d2d0f6cbb44c4a6df0a967f4e",
+  "license_db_generated_utc": "2026-07-17T08:18:30Z",
+  "license_db_signature": "2766ef12cc20185391328f7e4d217064f19c05f90fb8e2424cf196c0f19031fa",
   "maintenance_enabled": 0,
   "manager": "AminSoftwares_Online_License_Manager_v2_7_R13_UI",
   "schema": "AMIN_ONLINE_CONTROL_V2",
-  "signature": "f8153dfadc840ddf74981f5ccaf78beb904e4997394625ca87a6c0be2199267b"
+  "signature": "c416498d7a380d240d143dd1e2ecf7a6bfb52cf53adf91de71e0cb5159f6f2ac"
 }
