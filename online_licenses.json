@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-13T22:11:40Z",
+  "generated_utc": "2026-07-17T08:18:30Z",
   "licenses": [
     {
       "account_grants": [
@@ -67,28 +67,28 @@
     },
     {
       "account_grants": [
-        "5d98226143c7864fdd73175213d984961f194b85aeaacb6c53f1704c03102430"
+        "913534f337cbd05ed1251fdecfe4d255da072bb90c1d680580306755d7dec294"
       ],
       "account_hashes": [
-        "5afe9fee22f63d3a9e0ba0212bc90e3497b5df0776a617ba65b2147110722577"
+        "479bb4d7ece2de25ec2bb6fd7e95d11054a02b5995d6541ef19829061e05a09a"
       ],
-      "accounts_digest": "f04fa46cbecf1743e4910aa35f2725972b99abe34756f23596ea70f9f5046c2d",
-      "activation_hash": "6d5375040917b01dff54a54e5d0ad9d079018f11508135f8fccdef2f4334bf42",
+      "accounts_digest": "2c718efd6bf225fbf31e0ca9665d346f22c04b7cca587e09a751873db1fdb812",
+      "activation_hash": "d80c21bf999989a2e8c6a83460cef3890efb8b36b9cc1ba928ad4fc5193cef68",
       "check_days": 1,
-      "customer_key_hash": "fc7db8882a2a28f9f5b5adec2afecdd5c15916c6e0edccf4a1779d99135a189f",
-      "expiry": "2027-07-14",
+      "customer_key_hash": "f93ef5669aedd52f21d2b7cd1aab732b5310a0c49f4a52182dd0dfb69462606a",
+      "expiry": "2027-07-17",
       "features": {
         "dd_panel": true,
         "pc_panel": true,
         "position_list": true
       },
-      "grace_days": 1,
+      "grace_days": 15,
       "hardware_hash": "3D5BC74726A3351213509180A49A298013B25597DBE23F62",
-      "license_id": "LIC-25-FC7D-B888",
-      "platform": "Unknown",
-      "product_name": "Program 25",
+      "license_id": "LIC-25-F93E-F566",
+      "platform": "mt5",
+      "product_name": "simulation",
       "program_id": 25,
-      "record_signature": "e448d63bc89d9c391f5c1ef60dd5125c4e16551745def7c981e4d829248896db",
+      "record_signature": "08e543266f844ff026953df64f12a46af0523e19812ae6f6ba001dbc773cc44a",
       "status": "active",
       "version_policy": {
         "force_update": false,
@@ -123,6 +123,14 @@
       "notes": "",
       "platform": "MT5",
       "program_id": 10
+    },
+    {
+      "default_check_days": 1,
+      "default_grace_days": 15,
+      "name": "simulation",
+      "notes": "",
+      "platform": "mt5",
+      "program_id": 25
     },
     {
       "default_check_days": 1,
@@ -166,5 +174,5 @@
     }
   ],
   "schema": "AMIN_ONLINE_LICENSE_DB_V21",
-  "signature": "38d9ff579cde2bcf3f690a9a385923578908538a7093fccdb8bb4c8a388e09f0"
+  "signature": "2766ef12cc20185391328f7e4d217064f19c05f90fb8e2424cf196c0f19031fa"
 }
